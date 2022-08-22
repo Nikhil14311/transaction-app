@@ -1,0 +1,14 @@
+[
+    {
+        "bic":"12345678",
+        "instituteName":"AB Bank Limited"
+    },
+    {
+        "bic":"AX5980AN882",
+        "instituteName":"AXIS Bank Limited"
+    },
+    {
+        "bic":"HDFC01BA03536",
+        "instituteName":"HDFC Bank Limited"
+    }
+]
