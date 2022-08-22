@@ -1,0 +1,12 @@
+[
+    {
+        "customerId":"123456789",
+        "name":"Nikhil Royal",
+        "accountBalance":"20,968.00"
+    },
+    {
+        "customerId":"123456",
+        "name":"Yesaswini",
+        "accountBalance":"50,000.00"
+    }
+]
