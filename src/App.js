@@ -170,12 +170,13 @@ const styles = {
         marginRight:10
     },
     inputBox : {
-        width : '101%',
+        width : '99%',
         height : '7vh',
         border : '1px solid lightgrey',
         borderRadius : '3px',
         fontSize : 15,
         outline : 'none',
+        paddingLeft:10
     },
     errorTxt : {
         fontSize : 12,
