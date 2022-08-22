@@ -155,11 +155,10 @@ const styles = {
         display : 'flex',
         flexDirection : 'row',
         width : '100%',
-        //alignItems : 'center',
+        marginTop : '10px'
     },
     customerId : {
         fontSize : 14,
-        //alignSelf : 'center',
         marginTop : '10px',
         fontWeight : 'bold',
         width : '30%',
@@ -167,15 +166,16 @@ const styles = {
     inputBoxInnerContainer : {
         display : 'flex',
         flexDirection : 'column',
-        width : '70%'
+        width : '70%',
+        marginRight:10
     },
     inputBox : {
-        width : '100%',
+        width : '101%',
         height : '7vh',
         border : '1px solid lightgrey',
         borderRadius : '3px',
         fontSize : 15,
-        outline : 'none'
+        outline : 'none',
     },
     errorTxt : {
         fontSize : 12,
@@ -191,7 +191,8 @@ const styles = {
         fontSize : 15,
         color : 'green',
         fontWeight : 'bold',
-        outline : 'none'
+        outline : 'none',
+        paddingLeft : 10
     },
     btnContainer : {
         display : 'flex',
@@ -199,7 +200,8 @@ const styles = {
         alignItems : 'center',
         width : '100%',
         justifyContent:'space-evenly',
-        flexDirection : 'row'
+        flexDirection : 'row',
+        alignItems : 'center'
     },
     verifyBtn : {
         width : '40%',
